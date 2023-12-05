@@ -26,5 +26,5 @@ Description of Project 2.
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/juliana-romdalvik/))
+- [LinkedIn](https://www.linkedin.com/in/juliana-romdalvik/)
 - [Email](julianaromdalvik@gmail.com)
