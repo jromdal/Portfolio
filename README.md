@@ -16,9 +16,9 @@ Passionate about the intersection of biology and data science, I am a graduate s
 
 ## Projects
 
-### Project 1
+### Vitamin D & Autism
 
-Description of Project 1.
+This comprehensive project uses a dataset containing values of vitamin D levels for individuals with and without Autism Spectrum Disorder (ASD). It showcases skills such as Exploratory Data Analysis, Correlation Analysis, Predictive Modeling, Data Visualization Dashboard Creation, and Research Writing. Programs used in this project include Python (pandas, matplotlib, seaborn, scikit-learn, plotly, dash) and RStudio. 
 
 ### Project 2
 
